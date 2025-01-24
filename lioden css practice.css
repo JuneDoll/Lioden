@@ -7,3 +7,11 @@ background: none !important;
 border: 1px solid #5C2E1E !important;
 border-radius: 2px;
 }
+.navbar {
+background: transparent !important;
+border: none !important;
+border-bottom: 1px solid #5C2E1E !important;
+border-top: none !important;
+border-right: none !important;
+color: #5C2E1E !important;
+}

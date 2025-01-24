@@ -3,5 +3,5 @@
 body {background: url('https://cdn.pixabay.com/photo/2016/11/27/11/33/desert-1862625_960_720.jpg') top center fixed;background-size: 100%;font-family: Indie Flower;color: black;}
 
 div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
-content: url('https://cdn.pixabay.com/photo/2021/07/13/09/12/lion-logo-6462988_960_720.png’);
+content: url('https://cdn.pixabay.com/photo/2021/07/13/09/12/lion-logo-6462988_960_720.png');
 }

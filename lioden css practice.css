@@ -2,16 +2,3 @@
 
 body {background: url('https://cdn.pixabay.com/photo/2023/09/09/10/25/mountains-8242910_1280.png') top center fixed;background-size: 100%;font-family: Indie Flower;color: black;}
 
-.main {
-background: none !important;
-border: 1px solid #5C2E1E !important;
-border-radius: 2px;
-}
-.navbar {
-background: transparent !important;
-border: none !important;
-border-bottom: 1px solid #5C2E1E !important;
-border-top: none !important;
-border-right: none !important;
-color: #5C2E1E !important;
-}

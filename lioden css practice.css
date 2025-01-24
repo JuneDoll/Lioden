@@ -1,8 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
-
-body {background: url('https://cdn.pixabay.com/photo/2016/11/27/11/33/desert-1862625_960_720.jpg') top center fixed;background-size: 100%;font-family: Indie Flower;color: black;}
-
-.topbar {background: rgba(250,250,51,1.0);border: 1px solid black;border-top: none;color: black;}
-.navbar {background: rgba(250,250,51,1.0);border-bottom: 2px solid black;font-family: Indie Flower;}
-.navbar li a {color: black !important;}
-.navbar li a:hover {background: rgba(250,250,51,1.0) !important;}

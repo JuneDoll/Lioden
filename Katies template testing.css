@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Crafty+Girls&display=swap');
+
+body {background: url('https://i.imgur.com/8b4mEYj.jpeg') top center fixed;background-size: 100%;font-family: Crafty Girl;color: black;}
+
+
+.container.main {
+	background: #DDBFA8;
+	border: none;
+	box-shadow: none;
+	border-radius: 0px
+}
+.col-md-9 {
+	background: none;
+        border-right: none
+}
+
+.topbar { 
+
+        background-color: #59391E; 
+	color: #C3DAE8 !important;
+    }
+
+.navbar { 
+
+        background-color: #A16E47; 
+	
+    }
+
+
+
+.navbar li a {
+	color: #210F04 !important;
+}
+
+.navbar li a:hover {
+background: #DDBFA8 !important;
+}
+
+.breadcrumb {
+background: #59391E !important;
+color: #DDBFA8 !important;
+border: 1px solid #210F04!important;
+}
+
+
+.feature {
+background: #59391E !important;
+color: #210F04!important;
+border: 1px solid #91AFC2 !important;
+}
+
+
+.sidebar {
+background: #A16E47 !important;
+color: #210F04 !important;
+border: none !important;
+}
+
+.panel {
+background: none !important;
+border: none !important;
+box-shadow: none !important;
+}
+
+.chat_light {
+background: #0F2F42 !important;
+color: #C3DAE8!important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+}
+
+.chat_dark {
+background: #091B26 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+}

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body {
+	background: url('https://cdn.pixabay.com/photo/2020/09/12/17/56/flower-5566313_1280.png') center center fixed;
+	background-size: 100%;
+	font-family: 'Indie Flower';
+	color: #2e2a2b
+}
+
+.container.main {
+	background: #54c43d;
+	border: none;
+	box-shadow: none;
+	border-radius: 0px
+}
+.col-md-9 {
+	background: none;
+        border-right: none
+}

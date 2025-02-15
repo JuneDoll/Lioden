@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&family=Pacifico&display=swap');
+
+body {
+    background: url('https://i.imgur.com/kjOQjRi.png') no-repeat center center fixed;
+    background-size: cover;
+    color: #4A362F;
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgba(255, 240, 220, 0.6);
+} 
+
+.container {
+    background: rgba(255, 240, 220, 0.9);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    border: 2px double #B07040;
+}
+
+.topbar, .container.main, .navbar, .navbar li a, .breadcrumb, .breadcrumb .active,
+input.floatright, button.button, .alert, .alert-warning, .alert-danger, .sidebar h3,
+.panel, .progress, .progress-bar, .progress div, .s-chat-message:nth-child(even),
+.s-chat-message:nth-child(odd), .s-chat-message__pinned, .s-chat-message_timestamp,
+div#chatMessageContainer, button#label_currentChannel, .table, .top, .bottom,
+th, td.bottom a, .inner-table .left, .inner-table .right, td.right, .cave-grid,
+.mound-grid, .feature, div.left, .table .left, input, select, textarea, .item-header, .item,
+div.slider.round, div.slider.round::before, a:link, a:visited, a:hover, .boxcontainer, .smallbox, .mediumbox, .largebox, .smallhoverbox, .mediumhoverbox, .mediumhoverbox:hover, .largehoverbox, .largehoverbox:hover, ::-webkit-scrollbar, ::-webkit-scrollbar-track, ::-webkit-scrollbar-thumb, div#lion_image, table#player img {
+    background: linear-gradient(to bottom, rgba(240, 200, 170, 0.9), rgba(230, 180, 150, 0.9));
+    color: #5A3A2A;
+    border: 2px double #A66A44;
+    padding: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 15px;
+    margin-left: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+table#player img {
+    border-radius: 50% !important;
+    overflow: hidden;
+}
+
+.navbar li a:hover, input.floatright:hover, button.button:hover {
+    background: rgba(210, 160, 130, 0.9);
+    color: #FFF8E6;
+}
+
+h1, h2, h3 {
+    color: #C88A60;
+    font-weight: bold;
+}
+
+a {
+    color: #D68E5A;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #A66A44;
+    text-decoration: underline;
+}
+
+.profile-header {
+    background: none;
+    padding: 40px;
+    border-radius: 10px;
+    color: #F8E4D2;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+    border: 2px double #D68E5A;
+}
+
+.top-header {
+    background: rgba(235, 190, 160, 0.9);
+    color: #6A3E2E;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.top-header a {
+    color: #8A5035;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.top-header a:hover {
+    color: #5A2A1E;
+}
+
+.players-den {
+    text-align: center;
+    font-size: 34px;
+    color: #F7C87A;
+    font-weight: bold;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+}
+
+.player-name {
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    color: #E09A66;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.right-bar {
+    background: rgba(230, 200, 170, 0.9);
+    border: 2px double #A66A44;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    color: #6A4A3A;
+}
+
+.chat-box {
+    background: rgba(245, 200, 170, 0.9);
+    border: 2px double #D68E5A;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    color: #5A3A2A;
+}
+
+.site-credits {
+    text-align: center;
+    font-size: 14px;
+    color: #F7C87A;
+    background: rgba(60, 40, 30, 0.6);
+    padding: 10px;
+    border-radius: 5px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.floating-box {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: rgba(255, 240, 220, 0.95);
+    border: 2px double #D68E5A;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    width: 200px;
+    text-align: center;
+    font-size: 14px;
+    color: #6A4A3A;
+}
+
+.lioden-logo {
+    content: url('https://static.lioden.com/images/layout/rollover.png');
+}

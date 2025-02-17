@@ -105,7 +105,7 @@ div.center.b element.style {
     text-align: center;
 }
 
-nav.navbar.navbar-default .navbar {
+.navbar {
     margin-bottom: 0;
     border: 0;
     border-radius: 0;
@@ -116,9 +116,8 @@ nav.navbar.navbar-default .navbar {
     border-color: white;
 }
 
-div.col-md-9.col-xs-12 .col-md-9 {
+.col-md-9 {
     background: transparent !important;
-    background: transparent;
     min-height: 800px;
     padding-top: 25px;
 }

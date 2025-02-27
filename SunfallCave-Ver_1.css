@@ -1,6 +1,6 @@
 @media (min-width: 768px) {
 body {
-/*Changes main / background image*/
+font-family: "OpenSans", Helvetica, Tahoma, Arial, sans-serif;
    background: #00020F  url('https://i.imgur.com/j4EAS8f.png') no-repeat center fixed;
     background-size: cover;
     background-position: center -200px;

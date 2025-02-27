@@ -1,9 +1,11 @@
+@media (min-width: 768px) {
 body {
 /*Your code should go under this comment*/
    background: url('https://i.imgur.com/j4EAS8f.png') no-repeat center fixed;
     background-size: cover;
     background-position: center -200px;
   min-height: 100vh; 
+    }
 }
 .col-md-9 {
     background: transparent;
@@ -71,8 +73,7 @@ body {
 }
 .navbar-default .navbar-nav > li > a {
     color: #eddc7e;
-   font-size: larger
- 
+   font-size: larger 
 }
 .navbar-default .navbar-nav > li > a {
     color: #eddc7e;
@@ -279,8 +280,6 @@ content: url('https://i.imgur.com/eUeL0Oa.png');
 }img[src$="cavedefault.jpg"] {
 content: url("https://i.imgur.com/r4W5mr2.png") !important;
 }
-
-
 img[src$="caveunused.jpg"] {
 content: url("https://i.imgur.com/r4W5mr2.png") !important;
 }
@@ -314,8 +313,6 @@ content: url('https://i.imgur.com/ki5ad1U.png')!important;
     margin: 2px 0;
     border-radius: 3px;
 }
-
-
 /* Main container to hold all boxes */
 .custom-container {
     display: flex;
@@ -323,8 +320,6 @@ content: url('https://i.imgur.com/ki5ad1U.png')!important;
     width: 820px; /* Adjust to fit within Lioden’s layout */
     margin: auto; /* Centering */
 }
-
-
 /* General Box Styling */
 .box {
     background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
@@ -334,23 +329,17 @@ content: url('https://i.imgur.com/ki5ad1U.png')!important;
     border: 1px solid white;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
-
-
 /* Left Box */
 .left-box {
     height: 350px;
     width: 550px;
 }
-
-
 /* Right Box */
 .right-box {
     height: 350px;
     width: 250px;
     margin-left: 10px; /* Adds spacing between left and right boxes */
 }
-
-
 /* Bottom Box */
 .bottom-box {
     height: 350px;
@@ -365,8 +354,6 @@ content: url('https://i.imgur.com/ki5ad1U.png')!important;
     width: 820px; /* Adjust to fit within Lioden’s layout */
     margin: auto; /* Centering */
 }
-
-
 /* General Box Styling */
 .box {
     background: rgba(62, 47, 9, 0.8); /* Semi-transparent background */
@@ -376,23 +363,17 @@ content: url('https://i.imgur.com/ki5ad1U.png')!important;
     border: 1px solid white;
     box-shadow: 2px 2px 5px rgba(89, 110, 33, 0.3);
 }
-
-
 /* Left Box */
 .left-box {
     height: 350px;
     width: 550px;
 }
-
-
 /* Right Box */
 .right-box {
     height: 350px;
     width: 250px;
     margin-left: 10px; /* Adds spacing between left and right boxes */
 }
-
-
 /* Bottom Box */
 .bottom-box {
     height: 350px;

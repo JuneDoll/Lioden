@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Quicksand');
 body {
-   background: url('https://i.imgur.com/j4EAS8f.png') no-repeat center fixed;
-    background-size: cover;
-    background-position: center -200px;
-  min-height: 100vh; 
-    }
+background: url('https://i.imgur.com/Rd3tKT5.jpg') center center fixed;
+background-size: 100%;
+font-weight: normal !important;
+font-family: 'Montserrat';
+color: #fff;
+}

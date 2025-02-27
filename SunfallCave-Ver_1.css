@@ -1,10 +1,7 @@
-
-@media (min-width: 768px) {
-    body {
-        font-family: "OpenSans", Helvetica, Tahoma, Arial, sans-serif;
-          background: url('https://i.imgur.com/j4EAS8f.png') fixed;
-        background-repeat: no-repeat;
-        background-size: 100%;
-        font-size: 14px;
-    }
+body {
+/*Your code should go under this comment*/
+   background: url('https://i.imgur.com/j4EAS8f.png') no-repeat center fixed;
+    background-size: cover;
+    background-position: center -200px;
+  min-height: 100vh; 
 }

@@ -79,7 +79,7 @@ body {
     monospace;
     -webkit-text-stroke-color: #271e05;
     -webkit-text-stroke-width: 1px;
-    font-size: x-large;
+    font-size: large,
 }
 .sidebar h3 {
     color: #eddc7e;

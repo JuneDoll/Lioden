@@ -325,12 +325,15 @@ content: url('https://i.imgur.com/ki5ad1U.png')!important;
 
 /* General Box Styling */
 .box {
-    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    background: rgba(62, 47, 9, 0.8); /* Semi-transparent background */
     color: white; /* Text color */
     padding: 10px;
     border-radius: 10px;
     border: 1px solid white;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 2px 2px 5px rgba(89, 110, 33, 0.3);
+    overflow-y: auto; /* Enables scrolling */
+    overflow-x: hidden; /* Prevents horizontal overflow */
+    word-wrap: break-word; /* Ensures long words break correctly */
 }
 
 /* Left Box */

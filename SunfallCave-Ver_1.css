@@ -7,3 +7,8 @@ body {
    font-weight: normal !important;
    color: #fff;
 }
+.col-md-9 {
+    background: transparent;
+    min-height: 800px;
+    padding-top: 25px;
+}

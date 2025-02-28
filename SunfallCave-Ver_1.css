@@ -1,11 +1,8 @@
 body {
-   background: url('https://i.imgur.com/j4EAS8f.png') no-repeat center top fixed;
-   background-size: cover;
-   background-position: center -200px;
-   min-height: 100vh;  
-   font-family: "Poiret One", sans-serif;
-   font-weight: normal !important;
-   color: #fff;
+   background: u rl('https://i.imgur.com/j4EAS8f.png') no-repeat center fixed;
+    background-size: cover;
+    background-position: center -200px;
+  min-height: 100vh; 
 }
 .col-md-9 {
     background: transparent;

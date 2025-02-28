@@ -394,6 +394,7 @@ content: url('https://i.imgur.com/ki5ad1U.png')!important;
     overflow-y: auto; /* Enables scrolling */
     margin-top: 10px;
 }
-:root {
-    --bg-container-color: rgba(62, 47, 9, 0.8);
+
+.navbar-default .navbar-nav li a:hover {
+    background: rgba(62, 47, 9, 0.8);
 }

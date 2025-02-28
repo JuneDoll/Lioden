@@ -3,6 +3,8 @@ body {
     background-size: cover;
     background-position: center -200px;
   min-height: 100vh; 
+   font-family: "Poiret One", sans-serif !important;
+   color: #fff !important;
 }
 .col-md-9 {
     background: transparent;

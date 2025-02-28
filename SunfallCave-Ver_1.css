@@ -30,3 +30,24 @@ body {
     border-color: white;
     border-style: dashed;
 }
+.table .top, .table th {
+    background-color: rgba(62, 47, 9, 0.8) !important;
+    color: #fff;
+    padding: 8px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    border-color: white;
+    border-style: solid;
+    border-width: thin;
+}
+.table .bottom {
+    text-align: center;
+    background: rgba(62, 47, 9, 0.8);
+    color: #fff;
+    border-color: white;
+    border-style: solid;
+    border-width: thin;
+}
+.table {
+    border: 1px solid #fff;
+}

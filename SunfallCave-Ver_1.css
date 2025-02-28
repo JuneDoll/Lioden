@@ -320,9 +320,9 @@ content: url('https://i.imgur.com/ki5ad1U.png')!important;
     display: flex;
     flex-wrap: wrap;
     width: 820px; /* Adjust to fit within Lioden’s layout */
-    auto; /* Centering */
+    margin: auto; /* Centering */
 }
- 
+
 /* General Box Styling */
 .box {
     background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
@@ -332,35 +332,35 @@ content: url('https://i.imgur.com/ki5ad1U.png')!important;
     border: 1px solid white;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
- 
+
 /* Left Box */
 .left-box {
     height: 350px;
     width: 550px;
 }
- 
+
 /* Right Box */
 .right-box {
     height: 350px;
     width: 250px;
-    10px; /* Adds spacing between left and right boxes */
+    margin-left: 10px; /* Adds spacing between left and right boxes */
 }
- 
+
 /* Bottom Box */
 .bottom-box {
     height: 350px;
     width: 817.5px;
     overflow-y: auto; /* Enables scrolling */
-    10px;
+    margin-top: 10px;
 }
 /* Main container to hold all boxes */
 .custom-container {
     display: flex;
     flex-wrap: wrap;
     width: 820px; /* Adjust to fit within Lioden’s layout */
-    auto; /* Centering */
+    margin: auto; /* Centering */
 }
- 
+
 /* General Box Styling */
 .box {
     background: rgba(62, 47, 9, 0.8); /* Semi-transparent background */
@@ -370,24 +370,24 @@ content: url('https://i.imgur.com/ki5ad1U.png')!important;
     border: 1px solid white;
     box-shadow: 2px 2px 5px rgba(89, 110, 33, 0.3);
 }
- 
+
 /* Left Box */
 .left-box {
     height: 350px;
     width: 550px;
 }
- 
+
 /* Right Box */
 .right-box {
     height: 350px;
     width: 250px;
-    10px; /* Adds spacing between left and right boxes */
+    margin-left: 10px; /* Adds spacing between left and right boxes */
 }
- 
+
 /* Bottom Box */
 .bottom-box {
     height: 350px;
     width: 817.5px;
     overflow-y: auto; /* Enables scrolling */
-    10px;
+    margin-top: 10px;
 }

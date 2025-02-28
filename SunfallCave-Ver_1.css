@@ -274,26 +274,27 @@ Div.center.b{
 }
 /*Navbar Lioden Logo*/
 img[src$="logo-full-2.png"] {
-content: u rl('https://i.imgur.com/eUeL0Oa.png');
+content: url('https://i.imgur.com/eUeL0Oa.png');
   -15px;
-}img[src$="cavedefault.jpg"] {
-content: u rl("https://i.imgur.com/r4W5mr2.png") !important;
+}
+   img[src$="cavedefault.jpg"] {
+content: url("https://i.imgur.com/r4W5mr2.png") !important;
 }
  
 img[src$="caveunused.jpg"] {
-content: u rl("https://i.imgur.com/r4W5mr2.png") !important;
+content: url("https://i.imgur.com/r4W5mr2.png") !important;
 }
 /*Overview*/
 img[src$="overviewbanner.png"] {
-content: u rl('https://i.imgur.com/lVl3Dfc.png') !important;
+content: url('https://i.imgur.com/lVl3Dfc.png') !important;
 }
 /*Unsorted Lions*/
 img[src$="unsortedlionsbanner.png"] {
-content: u rl('https://i.imgur.com/Kjjv1vV.png')!important;
+content: url('https://i.imgur.com/Kjjv1vV.png')!important;
 }
 /*Nesting*/
 img[src$="nestingbanner.png"] {
-content: u rl('https://i.imgur.com/ki5ad1U.png')!important;
+content: url('https://i.imgur.com/ki5ad1U.png')!important;
 }
 .select-control:hover, button.button:hover, input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hover {
     background: #A3793B;

@@ -79,7 +79,7 @@ body {
     monospace;
     -webkit-text-stroke-color: #271e05;
     -webkit-text-stroke-width: 1px;
-    font-size: large,
+    font-size: large;
 }
 .sidebar h3 {
     color: #eddc7e;
@@ -396,5 +396,5 @@ content: url('https://i.imgur.com/ki5ad1U.png')!important;
 }
 
 .navbar-default .navbar-nav li a:hover {
-    background: rgba(62, 47, 9, 0.8);
+    background: transparent;
 }
